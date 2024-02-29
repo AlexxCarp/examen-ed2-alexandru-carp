@@ -1,0 +1,9 @@
+#Ignorar la carpeta events
+events/
+#Ignorar los archivos .class
+layers/*.class
+#Ignorar los archivos .lock.json
+*lock.json
+#Ignorar los archivos de node-modules
+!src
+!src/node-modules
